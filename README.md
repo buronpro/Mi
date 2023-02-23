@@ -3,7 +3,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rofiq-usmonov-891a34226" target="blank"><img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=&message=LinkedIn&color=darkblue" alt="rofiqusmonov"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
